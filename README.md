@@ -1,2 +1,2 @@
-# wordPiercer
-find words in the English Dictionary
+# SpaceFinder
+Find cool shi- stuff in space
