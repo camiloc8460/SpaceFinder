@@ -218,6 +218,50 @@
     }
 }
 
+<<<<<<< HEAD
 
 
 
+=======
+#content4 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    object-fit: cover;
+    border: lightskyblue 3px solid;
+    background: black;
+    border-radius: .5%;
+    z-index: -1;
+    display: flex;
+    justify-content: center;
+
+}
+
+#content1 {
+    padding-left: 40px;
+    padding-right: 40px;
+    z-index: 10;
+}
+
+#content2 {
+    padding-left: 40px;
+    padding-right: 40px;
+    z-index: 10;
+}
+
+#content3 {
+    padding-left: 40px;
+    padding-right: 40px;
+    z-index: 10;
+}
+
+.searchbar {
+    padding-left: 20px;
+    padding-top: 20px;
+    z-index: 10;
+}
+>>>>>>> 78e21c6f6b333ac7144bce83b5174d346e649cfd

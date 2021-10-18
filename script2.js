@@ -44,6 +44,7 @@ function useApiData (data) {
     document.querySelector("#content3").style.textAlign = "center";
     document.querySelector("#content3").style.color = "white";
     
+<<<<<<< HEAD
     
 }
 
@@ -54,3 +55,13 @@ const menuToggle = document.querySelector('.toggle')
                 menuToggle.classList.toggle('active')
                 showcase.classList.toggle('active')
         })
+=======
+    document.querySelector("#content4").style.position = "absolute";
+    document.querySelector("#content4").style.marginRight = "auto";
+
+    
+    
+}
+
+    
+>>>>>>> 78e21c6f6b333ac7144bce83b5174d346e649cfd
