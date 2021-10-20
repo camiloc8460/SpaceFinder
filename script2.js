@@ -43,6 +43,9 @@ function useApiData (data) {
     document.querySelector("#content3").style.zIndex = "10";
     document.querySelector("#content3").style.textAlign = "center";
     document.querySelector("#content3").style.color = "white";
+
+    document.querySelector("#content4").style.width = "300px";
+    document.querySelector("#content4").style.height = "300px";
     
     
 }
